@@ -14,3 +14,11 @@ Resources to help you to rock in great companies interviews.
 
 - [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 - [1001 algoritmos para implementar antes de morrer](https://github.com/hacktoon/1001)
+
+## Architecture
+
+- [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+
+## Other
+
+- [Google Interview University](https://github.com/jwasham/google-interview-university)
