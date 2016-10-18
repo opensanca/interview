@@ -1,5 +1,5 @@
 # Opensanca Interview University
-Resources to help you to rock in interviews to great companies.
+Resources to help you to rock in interviews for great companies.
 
 ![Rocky](https://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/t/568ed98f1115e085239dfea8/1452202542389/?format=1500w)
 
