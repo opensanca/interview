@@ -19,6 +19,9 @@ Resources to help you to rock in great companies interviews.
 
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
+## Books
+- [Recommended books by OpenSanca](https://github.com/opensanca/recommended_books)
+
 ## Other
 
 - [Google Interview University](https://github.com/jwasham/google-interview-university)
