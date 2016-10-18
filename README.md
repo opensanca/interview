@@ -9,6 +9,8 @@ Resources to help you to rock in great companies interviews.
   * [Duolingo](https://www.duolingo.com/)
 * English
   * [USA Learns](http://www.usalearns.org/)
+* Japanese
+  * [NihonGO](http://cursonihongo.com.br/)
 
 ## Algorithms
 
