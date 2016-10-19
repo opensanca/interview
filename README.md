@@ -7,6 +7,7 @@ Resources to help you to rock in interviews for great companies.
 
 * General
   * [Duolingo](https://www.duolingo.com/)
+  * [Lyrics Training](http://lyricstraining.com/)
 * English
   * [USA Learns](http://www.usalearns.org/)
 * Japanese
