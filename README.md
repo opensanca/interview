@@ -23,6 +23,7 @@ Resources to help you to rock in interviews for great companies.
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 ## Books
+- [Cracking the Coding Interview] (https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 - [Recommended books by OpenSanca](https://github.com/opensanca/recommended_books)
 
 ## Other
