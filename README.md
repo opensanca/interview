@@ -26,6 +26,10 @@ Resources to help you to rock in interviews for great companies.
 - [Cracking the Coding Interview] (https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 - [Recommended books by OpenSanca](https://github.com/opensanca/recommended_books)
 
+## Videos
+- [Work at Google — Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw)
+- [How to: Prepare for a Google Engineering Interview](https://www.youtube.com/watch?v=ko-KkSmp-Lk)
+
 ## Other
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
