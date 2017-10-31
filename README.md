@@ -17,16 +17,22 @@ Resources to help you to rock in interviews for great companies.
 
 - [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 - [1001 algoritmos para implementar antes de morrer](https://github.com/hacktoon/1001)
+- [LeetCode](https://leetcode.com/)
+- [InterviewBit](https://www.interviewbit.com/)
+- [InterviewCake](https://www.interviewcake.com/)
+- [GeeksforGeeks](http://www.geeksforgeeks.org/)
 
 ## Architecture
 
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 ## Books
-- [Cracking the Coding Interview] (https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
+
+- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 - [Recommended books by OpenSanca](https://github.com/opensanca/recommended_books)
 
 ## Videos
+
 - [Work at Google — Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw)
 - [How to: Prepare for a Google Engineering Interview](https://www.youtube.com/watch?v=ko-KkSmp-Lk)
 
