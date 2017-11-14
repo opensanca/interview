@@ -21,6 +21,7 @@ Resources to help you to rock in interviews for great companies.
 - [InterviewBit](https://www.interviewbit.com/)
 - [InterviewCake](https://www.interviewcake.com/)
 - [GeeksforGeeks](http://www.geeksforgeeks.org/)
+- [HackerRank](https://www.hackerrank.com/) (Amazon uses this site for their selection)
 
 ## Architecture
 
