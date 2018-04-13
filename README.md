@@ -23,10 +23,12 @@ Resources to help you to rock in interviews for great companies.
 - [GeeksforGeeks](http://www.geeksforgeeks.org/)
 - [HackerRank](https://www.hackerrank.com/) (Amazon uses this site for their selection)
 - [Codility](https://codility.com/)
+- [Codefights](https://codefights.com/)
 
 ## Architecture
 
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+- [Udacity - Software Architecture and Design](https://br.udacity.com/course/software-architecture-design--ud821)
 
 ## Books
 
