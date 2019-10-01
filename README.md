@@ -45,3 +45,4 @@ Resources to help you to rock in interviews for great companies.
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [88 Great Behavioural Interview Questions To Help You Prepare For Your Next Interview!](http://interviewiq.com.au/88-great-behavioural-interview-questions-to-help-you-prepare-for-your-next-interview)
 - [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
+- [Sobrevivendo aos processos seletivos em TI](http://devcommunity.cc/processos-seletivos-ti/) *podcast*
